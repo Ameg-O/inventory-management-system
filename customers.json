@@ -1,0 +1,18 @@
+[
+    {
+        "person_id": 1,
+        "name": "ameg",
+        "phone": "9207806455",
+        "email": "ameg@gmail.com",
+        "username": "ameg",
+        "password": "1234"
+    },
+    {
+        "person_id": 2,
+        "name": "amego",
+        "phone": "235689235689",
+        "email": "ameg12@gmail.com",
+        "username": "ameg1",
+        "password": "12345"
+    }
+]

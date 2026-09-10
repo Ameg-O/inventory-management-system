@@ -1,0 +1,50 @@
+[
+    {
+        "type": "product",
+        "product_id": 1,
+        "name": "pen",
+        "category": "stationary",
+        "price": 25.009999999999998,
+        "quantity": 7
+    },
+    {
+        "type": "electronic",
+        "product_id": 101,
+        "name": "laptop",
+        "category": "electronic",
+        "price": 50000.0,
+        "quantity": 2,
+        "brand": "lenovo",
+        "warranty": 2
+    },
+    {
+        "type": "grocery",
+        "product_id": 201,
+        "name": "rice",
+        "category": "grocery",
+        "price": 100.0,
+        "quantity": 18,
+        "expiry_date": "2027-08-19",
+        "weight": 5.0
+    },
+    {
+        "type": "electronic",
+        "product_id": 102,
+        "name": "iphone 17",
+        "category": "electronic",
+        "price": 149999.0,
+        "quantity": 9,
+        "brand": "apple",
+        "warranty": 2
+    },
+    {
+        "type": "electronic",
+        "product_id": 103,
+        "name": "TV",
+        "category": "electronic",
+        "price": 20999.01,
+        "quantity": 9,
+        "brand": "Samsung",
+        "warranty": 2
+    }
+]
